@@ -27,7 +27,9 @@
 
 <div style="background-color: #f5f5f5; padding: 20px; border: 1px solid #ddd; border-radius: 5px;">
   <p style="font-size: 16px; line-height: 1.6;">
-Greetings! My name is Manuel Suarez, and I am based in New Brunswick, Canada. I am passionate about programming and currently pursuing a degree in Information Technology: Gaming Experience Development from NBCC Moncton. Additionally, I hold an Advanced 3D Animation degree from Collège La Cité in Ontario. I am continuously upgrading my skills and knowledge in software development, with a focus on various programming languages, including C++, C#, Java, HTML5/CSS3, and JavaScript, and frameworks like ASP.NET and Angular. If you are interested in seeing my completed projects, please feel free to visit my website at <a href="https://manuelsuarez3d.com">ManuelSuarez3D</a>. I would really appreciate it if you could explore and try them out!
+Greetings! My name is Manuel Suarez, and I am based in New Brunswick, Canada. I am passionate about programming and currently pursuing a degree in Information Technology: Gaming Experience Development from NBCC Moncton. Additionally, I hold an Advanced 3D Animation degree from Collège La Cité in Ontario. 
+
+I am continuously upgrading my skills and knowledge in software development, with a focus on various programming languages, including C++, C#, Java, HTML5/CSS3, and JavaScript, and frameworks like ASP.NET and Angular. If you are interested in seeing my completed projects, please feel free to visit my website at <a href="https://manuelsuarez3d.com">ManuelSuarez3D</a>. I would really appreciate it if you could explore and try them out!
   </p>
 </div>
 
