@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manuelsuarez3d&label=Profile%20views&color=0e75b6&style=flat" alt="manuelsuarez3d" /> </p>
 
 <h1 align="center">Hi 👋, I'm Manuel Suarez, a graduate of: 
-  <br>
   <h2 align="center">
   - IT: Gaming Experience Development, at NBCC. <br>
   - Advanced 3D Animation, at Collège La Cité.
   </h2>
+##
 </h1>
 
 
