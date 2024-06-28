@@ -2,7 +2,7 @@
 
 
 
-<div style="display: inline_block" align="center"><h2>Connect with me</h2>
+<div style="display: inline_block" align="center"><h3>Hi 👋, I'm Manuel Suarez <br> Connect with me</h3>
 <br>
 <a href="https://twitter.com/manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manuelsuarez3d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manuelsuarez3d" height="30" width="40" /></a>
