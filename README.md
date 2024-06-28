@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Manuel Suarez 
   <br>
-  <h1 align="left">
   I'm a graduate of: <br>
   - IT: Gaming Experience Development, at NBCC. <br>
   - Advanced 3D Animation, at Collège La Cité.
-  </h1>
 </h1>
 
 
