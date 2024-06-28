@@ -5,10 +5,11 @@
     <h2 align="center">
       - IT: Gaming Experience Development, at NBCC. <br>
       - Advanced 3D Animation, at Collège La Cité.
+      <br>
     </h2>
   </h1>
 </div>
-<br>
+
 <div style="display: inline_block" align="center"><h3>Connect with me</h3>
 <br>
 <a href="https://twitter.com/manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manuelsuarez3d" height="30" width="40" /></a>
