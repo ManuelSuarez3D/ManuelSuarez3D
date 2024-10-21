@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manuelsuarez3d" height="30" width="40" /></a>
 <a href="https://fb.com/manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manuelsuarez3d" height="30" width="40" /></a>
 <a href="https://instagram.com/manuelsuarez3d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/manuelsuarez3d/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@manuelsuarez3d710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@manuelsuarez3d710" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@manuelsuarez3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@manuelsuarez3d710" height="30" width="40" /></a>
 <a href ="mailto:manuel.suarez3d@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25" width="35"></a>
 </div>
 
